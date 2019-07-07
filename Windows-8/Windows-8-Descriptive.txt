@@ -1,0 +1,76 @@
+               *****Configuring Windows 8****
+	     
+
+ 		   *Chapter 1*
+ *Active Directory domain
+* Different between WinRT Vs WindowsRT.
+* ARM processor 
+* Charms
+* Cloud 
+* Windows To Go.
+* Secure Boot & Trusted Boot.
+* Refresh & Reset PC.
+* Windows 8 Edition Different/Hardware Requirement
+
+
+		  **Chapter 2*
+
+* Upgrading & Migrating windows
+* User State Migration (USMT)                              
+
+
+                 **Chapter-3*
+
+* Device Manager/Driver Rollback/Driver Verifier Utility
+ 
+                  **Chapter 4*
+
+* Applocker/App-V
+
+                   **Chapter 5
+
+* Differences between the two Internet Explorer interfaces in  Windows 8.
+* Group Policy 
+
+                    **Chapter 6
+
+*Hyper-V/When to Use Hyper-V
+
+                   **Chapter 7
+* Domain/Homegroup
+* Private/Public network
+* Preferred/Alternate DNS server
+* Task manager
+* ipv4 vs ipv6
+* ipconfig/netstat/Regedit/gpedit/gpupdate /force
+
+                    **Chapter 8
+*Secure Boot and SmartScreen Filter
+*VPN
+                    **Chapter 9
+*Windows PowerShell/Microsoft Management Console
+
+                    **chapter 11
+*disk management/Disk Cleanup
+*Encrypting File System/BitLocker
+*quota/storage
+
+                    **Chapter 12
+* rights vs. permissions
+*authentication and authorization/Biometric authentication
+
+                    **Chapter 13
+*BitLocker To Go
+                    **Chapter 14
+*Control Panel/Task Manager/Windows Action Center/Performance Monitor/Taskbar
+
+                    **Chapter 15
+*backup/restore/recovery
+
+
+   *Others*
+*remote desktop
+*remote assistent
+*File Synchorisation
+
+
